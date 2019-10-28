@@ -1,0 +1,8 @@
+You need a credentials.json file.
+Go to: https://console.developers.google.com/apis/credentials
+(if needed, create a project), then an OAuth credential. Download the file
+as credentials.json in the root directory.
+
+more info here:
+https://developers.google.com/gmail/api/quickstart/python
+(using this link will create a project called Quickstart with the API enabled.)
